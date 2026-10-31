@@ -1,0 +1,4 @@
+System.Exception: Designer preserves all ten bound columns
+   at Teakwood.Barcode.SelfTests.Check(Boolean condition, String message)
+   at Teakwood.Barcode.SelfTests.Run(String[] args)
+   at Teakwood.Barcode.Program.Main(String[] args)

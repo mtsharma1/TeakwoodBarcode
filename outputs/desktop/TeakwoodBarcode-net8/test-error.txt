@@ -1,0 +1,4 @@
+System.Exception: CSV row count
+   at Teakwood.Barcode.SelfTests.Check(Boolean condition, String message) in E:\My Client\Teakwood\Jitender\Barcode Work\BarcodeDesktop\SelfTests.vb:line 8
+   at Teakwood.Barcode.SelfTests.Run(String[] args) in E:\My Client\Teakwood\Jitender\Barcode Work\BarcodeDesktop\SelfTests.vb:line 27
+   at Teakwood.Barcode.Program.Main(String[] args) in E:\My Client\Teakwood\Jitender\Barcode Work\BarcodeDesktop\Program.vb:line 12

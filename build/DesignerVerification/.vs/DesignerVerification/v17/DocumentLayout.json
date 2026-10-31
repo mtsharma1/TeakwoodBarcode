@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Client\\Teakwood\\Jitender\\Barcode Work\\build\\DesignerVerification\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE7AEE0-F512-4D09-B786-8CB4DD013732}|Teakwood.Barcode.vbproj|e:\\my client\\teakwood\\jitender\\barcode work\\build\\designerverification\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FAE7AEE0-F512-4D09-B786-8CB4DD013732}|Teakwood.Barcode.vbproj|solutionrelative:mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE7AEE0-F512-4D09-B786-8CB4DD013732}|Teakwood.Barcode.vbproj|e:\\my client\\teakwood\\jitender\\barcode work\\build\\designerverification\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FAE7AEE0-F512-4D09-B786-8CB4DD013732}|Teakwood.Barcode.vbproj|solutionrelative:mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.vb",
+              "DocumentMoniker": "E:\\My Client\\Teakwood\\Jitender\\Barcode Work\\build\\DesignerVerification\\MainForm.vb",
+              "RelativeDocumentMoniker": "MainForm.vb",
+              "ToolTip": "E:\\My Client\\Teakwood\\Jitender\\Barcode Work\\build\\DesignerVerification\\MainForm.vb",
+              "RelativeToolTip": "MainForm.vb",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAWwIEAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-22T04:33:33.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "E:\\My Client\\Teakwood\\Jitender\\Barcode Work\\build\\DesignerVerification\\MainForm.vb",
+              "RelativeDocumentMoniker": "MainForm.vb",
+              "ToolTip": "E:\\My Client\\Teakwood\\Jitender\\Barcode Work\\build\\DesignerVerification\\MainForm.vb [Design]",
+              "RelativeToolTip": "MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-22T04:31:14.331Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
