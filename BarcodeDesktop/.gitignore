@@ -1,5 +1,10 @@
-bin/
-obj/
 .vs/
-publish/
+**/bin/
+**/obj/
+build/installer-publish/
+build/installer-package/
+build/desktop-tests/
+outputs/
 *.user
+*.suo
+*.vsidx
